@@ -24,6 +24,11 @@ These packages can be installed using the pacman package in R.
 - Run the script.
 - The script will download the text of "Pan Tadeusz" from the Gutenberg project, perform sentiment analysis on the text, and create two graphs of the sentiment analysis results. The graphs are saved as PNG files in the same directory as the script.
 
+# Output
+
+![Pan_Tadeusz_plot](https://github.com/vchibrikov/tidytext/assets/98614057/45fe1893-f213-4219-8318-bbab216f5509)
+
+
 # License
 
 This code is released under the MIT license.
